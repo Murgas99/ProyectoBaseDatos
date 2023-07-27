@@ -1,0 +1,192 @@
+    .cattorta {
+    background: #05e3be;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    
+    }
+    .catcocina {
+    background: #c2b7f2;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    
+    }
+    .catpan {
+    background: #C9F2B7;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    }
+    .catjugueteria {
+    background: #f9bd93;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    
+    }
+    .cathelados
+    {
+    background: #fbf4136b;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;   
+    display: inline-block;
+    }
+    .catempanada {
+    background: #5a5c698c;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;  
+    display: inline-block;
+    
+    }
+    .catjugos {
+    background: #7f8bb9;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;  
+    display: inline-block;
+    
+    }
+    .catgaseosa {
+        background: #b7ccf2;
+        color: #5a5c69;
+        font-weight: bold;
+        padding: 15px;
+        border: 2px solid #5a5c69;
+        border-radius: 6px;
+        text-align:center;
+        width: 90%;
+        margin: 20px;   
+        display: inline-block;
+    
+    }
+    .catpostre {
+    background: #eff2b7;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;  
+    display: inline-block;
+    display: inline-block;
+    
+    
+    }
+    .soon 
+    {
+        background: #eff2b7;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 97%;
+    margin: 20px; 
+    display: inline-block;
+    
+    }
+    /* colores para tabla */
+    .torta {
+         font-weight: bold; padding: 15px; border-left:20px solid #05e3be;
+    }
+    .cocina {
+         font-weight: bold; padding: 15px; border-left:20px solid #c2b7f2;
+    }
+    .pan {
+        font-weight: bold; padding: 15px; border-left:20px solid #C9F2B7;
+    }
+    .jugueteria {
+        font-weight: bold; padding: 15px; border-left:20px solid #fbf4136b; 
+    }
+    .helado {
+        font-weight: bold; padding: 15px; border-left:20px solid #f9bd93;
+    }
+    .empanadas {
+        font-weight: bold; padding: 15px; border-left:20px solid #5a5c698c;
+    }
+    .jugo {
+        font-weight: bold; padding: 15px; border-left:20px solid #7f8bb9;
+    }
+    .gaseosa {
+        font-weight: bold; padding: 15px; border-left:20px solid #b7ccf2;
+    }
+    .postre {
+        font-weight: bold; padding: 15px; border-left:20px solid #eff2b7;
+    }
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="number"],
+input[type="submit"] {
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.error {
+    color: #ff0000;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
